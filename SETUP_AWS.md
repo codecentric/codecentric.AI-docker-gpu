@@ -1,3 +1,4 @@
+```
 sudo -i
 apt-get update
 apt-get upgrade
@@ -27,3 +28,4 @@ git clone https://github.com/codecentric/codecentric.AI-bootcamp.git
 cd codecentric.AI-bootcamp
 ./run-gpu.sh
 
+``` 
